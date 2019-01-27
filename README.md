@@ -35,7 +35,7 @@ ask about it or share with us, please send us.
    Jan 1, 2019 (Red Hat Inc., OptaPlanner ver 7.5.0)
   https://www.ibm.com/us-en/marketplace/block-storage-infrastructure
   
-  ... and others.
+  ... and many others.
   
   
 # Do you want to use this project's ideas ...
