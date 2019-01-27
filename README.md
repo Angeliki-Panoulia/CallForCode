@@ -6,9 +6,13 @@ This is work in progress... We apolologise for not having committed recently. If
 ask about it or share with us, please send us.
 
 
+
+
 # Send us...
  
    Do you want to communicate with us and learn more on the project, send us apanoulia@gmail.com.
+
+
 
 
 # Use Cases   
@@ -46,7 +50,9 @@ ask about it or share with us, please send us.
   
   ... and many others.
   
-  
+
+
+
 # Do you want to use this project's ideas ...
    
   Really you can do a lot (!) based on the algorithms included in this project... Good luck in your journey...
