@@ -16,6 +16,8 @@ ask about it or share with us, please send us.
 
 
 # Use Cases   
+  
+  # Industry  
 
   Below you can find a list of potential use cases in which the core initiatives of the project may apply to.
  
@@ -47,6 +49,18 @@ ask about it or share with us, please send us.
    Jan 1, 2019 (Red Hat Inc., OptaPlanner ver 7.5.0)
    
   https://www.ibm.com/us-en/marketplace/block-storage-infrastructure
+  
+  # Research
+  
+  Scalable agent alignment via reward modeling: a research direction,
+  
+  Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg, 
+  
+  https://arxiv.org/abs/1811.07871, Cornell University, Machine Learning,
+  
+  Nov 2018
+  
+  
   
   ... and many others.
   
