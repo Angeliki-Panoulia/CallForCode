@@ -52,15 +52,15 @@ ask about it or share with us, please send us.
   
   # Research
   
-  Scalable agent alignment via reward modeling: a research direction,
-  
-  Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, Shane Legg, 
-  
-  https://arxiv.org/abs/1811.07871, Cornell University, Machine Learning,
-  
-  Nov 2018
-  
-  
+  Scalable agent alignment via reward modeling: a research direction, Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal
+  Maini, Shane Legg, https://arxiv.org/abs/1811.07871, Cornell University, Machine Learning,
+   Nov 2018
+   
+  The StarCraft Multi-Agent Challenge, Mikayel Samvelyan, Tabish Rashid, Christian Schroeder de Witt, Gregory Farquhar, Nantas 
+  Nardelli, Tim G. J. Rudner, Chia-Man Hung, Philip H. S. Torr, Jakob Foerster, Shimon Whiteson, Russian-Armenian University,  Armenia, 
+  University  of  Oxford,  United  Kingdom, https://arxiv.org/pdf/1902.04043.pdf
+   Feb 2019
+   
   
   ... and many others.
   
