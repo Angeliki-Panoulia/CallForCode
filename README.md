@@ -22,9 +22,11 @@ ask about it or share with us, please send us.
   Below you can find a list of potential use cases in which the core initiatives of the project may apply to.
  
   https://www.healthcaresecurityforum.com/boston/2018/session/new-generation-incident-response-healthcare
+  
    Oct 15,2018
    
   https://newsroom.ibm.com/2018-10-15-IBM-Unveils-Worlds-First-Multicloud-Management-Technology
+  
    Oct 15, 2018
    
   https://www.telecomtv.com/content/media-and-entertainment/customer-experience-vs-customer-engagement-32209/  
@@ -54,11 +56,13 @@ ask about it or share with us, please send us.
   
   Scalable agent alignment via reward modeling: a research direction, Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal
   Maini, Shane Legg, https://arxiv.org/abs/1811.07871, Cornell University, Machine Learning,
+  
    Nov 2018
    
   The StarCraft Multi-Agent Challenge, Mikayel Samvelyan, Tabish Rashid, Christian Schroeder de Witt, Gregory Farquhar, Nantas 
   Nardelli, Tim G. J. Rudner, Chia-Man Hung, Philip H. S. Torr, Jakob Foerster, Shimon Whiteson, Russian-Armenian University,  Armenia, 
-  University  of  Oxford,  United  Kingdom, https://arxiv.org/pdf/1902.04043.pdf
+  University  of  Oxford,  United  Kingdom, https://arxiv.org/pdf/1902.04043.pdf,
+   
    Feb 2019
    
   
